@@ -3,12 +3,13 @@
 For the program to work correctly, you must meet at least the following requirements:
 1. Pass the file path as first argument. For example, `Solution path/to/your/source/file`
 2. The file must not be empty
-3. The first line in the file must contain an integer value greater than `0` and less than `100000`
+3. The first line in the file must contain an integer value greater than `0` and less than `100_000`
 4. All other rulers contained in the file and their sequence number is greater than this value will be ignored
 
 ### All information about the result of the program, as well as errors, is displayed in the console
 
 <hr>
+
 #### Clarification questions/answers through Email
 
 1. `Q:` Can the solution be a console application? `A:` Yes (the input data should be loaded from the file)
@@ -38,3 +39,5 @@ For the program to work correctly, you must meet at least the following requirem
 14. `Q:` Where do you want the output to go: to the console, to a file, or somewhere else? `A:` It's up to you.
 15. `Q:` If you want to save the output to a file, what extension (*.txt, *.word, *.log, etc.), name, and location should it have? `A:` It's up to you.
 16. `Q:` Should my GitHub repository with the solution be public or private? `A:` It's up to you. If you would make it private - let me know, so you can add me. 
+
+<hr>
